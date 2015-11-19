@@ -77,10 +77,10 @@ BRUSHED.slider = function(){
 		thumb_links				:	0,			// Individual thumb links for each slide
 		thumbnail_navigation    :   0,			// Thumbnail navigation
 		slides 					:  	[			// Slideshow Images
-{image : 'include/img/slider-images/image04.jpg', title : '<br><br>', thumb : '', url : ''},
-											{image : 'include/img/slider-images/image03.jpg', title : '<div class="slide-content"></div>', thumb : '', url : ''},
-											{image : 'include/img/slider-images/image01.jpg', title : '', thumb : '', url : ''},
-											{image : 'include/img/slider-images/image02.jpg', title : '<br><br>', thumb : '', url : ''}
+{image : 'include/img/slider-images/image04.jpg', title : '<div class="slide-content">Savannah Cats<br><span class="subtext">Savannah cat breeds, rescue, forum</span></div>', thumb : '', url : ''},
+											{image : 'include/img/slider-images/image03.jpg', title : '<div class="slide-content">SCOPE Lite<br><span class="subtext">Personality Evaluator App</span></div>', thumb : '', url : ''},
+											{image : 'include/img/slider-images/image01.jpg', title : '<div class="slide-content">BALER<br><span class="subtext">Landscape Photography</span></div>', thumb : '', url : ''},
+											{image : 'include/img/slider-images/image02.jpg', title : '<div class="slide-content">MERGENCE Global<br><span class="subtext">Real Estate Site</span></div>', thumb : '', url : ''}
 //{image : 'include/img/slider-images/image04.jpg', title : '<br><br><span class="subtext">Sites that adjust on different screen resolution</span>', thumb : '', url : ''},
 //											{image : 'include/img/slider-images/image03.jpg', title : '<div class="slide-content"></div>', thumb : '', url : ''},
 //											{image : 'include/img/slider-images/image01.jpg', title : '<span class="maintext">BALER</span><br><span class="subtext">Landscape Photography shot : thanks to Raymond Cruz</span>', thumb : '', url : ''},
